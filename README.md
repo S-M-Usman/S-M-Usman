@@ -1,4 +1,4 @@
-#Hi there! I'm **Shaikh Muhammad Usman**, a passionate and aspiring **MERN Stack Developer** and AI enthusiast.  
+# Hi there! I'm **Shaikh Muhammad Usman**, a passionate and aspiring **MERN Stack Developer** and AI enthusiast.  
 
 ![Shaikh Muhammad Usman - MERN Stack Developer](./banner.jpg)
 
