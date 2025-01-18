@@ -1,10 +1,12 @@
 #Hi there! I'm **Shaikh Muhammad Usman**, a passionate and aspiring **MERN Stack Developer** and AI enthusiast.  
 
-![Shaikh Muhammad Usman - MERN Stack Developer](./)
+![Shaikh Muhammad Usman - MERN Stack Developer](./banner.jpg)
 
 My journey revolves around building innovative and efficient web applications, contributing to the tech community, and continuously learning.<br><br>
 # 💫 About Me:
-🔭 What I’m Currently Working On:<br>I’m improving my technical skills with Next.js, TypeScript, TailwindCSS, and Shadcn/UI. My focus is on mastering frontend and backend development while delivering clean, responsive designs and robust functionalities.<br><br>🤝 What I’d Like to Collaborate On:<br>I’d love to collaborate on web development projects, especially those using React, Next.js, or TypeScript. I’m also open to contributing to open-source projects and learning from experienced developers in the MERN stack and AI domains.<br><br>🌱 What I’m Currently Learning:<br>I’m diving deep into TypeScript, API integration, responsive UI designs, and exploring AI-based development to expand my expertise in cutting-edge technologies.<br><br>💬 Ask Me About:<br>Feel free to ask me about:<br><br>Web development (HTML, CSS, JavaScript, TypeScript)<br>Frameworks like React and Next.js<br>TailwindCSS for styling<br>Any MERN stack-related queries!<br>🎉 Fun Fact:<br>When I’m not coding, I’m likely dreaming about my favorite Real Madrid lineup or planning my next innovative side project. ⚽<br><br>Let’s connect and build something amazing together! 🚀
+🔭 What I’m Currently Working On:<br>I’m improving my technical skills with Next.js, TypeScript, TailwindCSS, and Shadcn/UI.
+My focus is on mastering frontend and backend development while delivering clean, responsive designs and robust functionalities.<br><br>
+🤝 What I’d Like to Collaborate On:<br>I’d love to collaborate on web development projects, especially those using React, Next.js, or TypeScript. I’m also open to contributing to open-source projects and learning from experienced developers in the MERN stack and AI domains.<br><br>🌱 What I’m Currently Learning:<br>I’m diving deep into TypeScript, API integration, responsive UI designs, and exploring AI-based development to expand my expertise in cutting-edge technologies.<br><br>💬 Ask Me About:<br>Feel free to ask me about:<br><br>Web development (HTML, CSS, JavaScript, TypeScript)<br>Frameworks like React and Next.js<br>TailwindCSS for styling<br>Any MERN stack-related queries!<br>🎉 Fun Fact:<br>When I’m not coding, I’m likely dreaming about my favorite Real Madrid lineup or planning my next innovative side project. ⚽<br><br>Let’s connect and build something amazing together! 🚀
 
 
 ## 🌐 Socials:
